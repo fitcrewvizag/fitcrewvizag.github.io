@@ -1,6 +1,6 @@
 {
-    "name": "sanfolio",
-    "short_name": "sanfolio",
+    "name": "fitcrew",
+    "short_name": "fitcrew",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
